@@ -6,6 +6,7 @@ It is actually very short demo of how google maps work to find path between sour
 Algorithm Used :-  
 
 Dijkstra’s Algorithm  –  Finding shortest path
+
 A* Algorithm  –  Finding  quickest path (path need not to be shortest)
 
 
