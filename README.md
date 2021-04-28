@@ -13,7 +13,7 @@ A* Algorithm  –  Finding  quickest path (path need not to be shortest)
 DIJKSTRA’S ALGORITHM
 
 
-![ezgif-1-64c3c2a743f0](https://user-images.githubusercontent.com/57897489/116426545-d04d8480-a860-11eb-8b9b-11dd5b835e51.gif)
+![ezgif-1-54c497cb7a46](https://user-images.githubusercontent.com/57897489/116426337-a72cf400-a860-11eb-8dbe-76067170a9eb.gif)
 
 
 
@@ -25,7 +25,7 @@ Dijkstra's algorithm to find the shortest path between a and b. It picks the unv
 A* Search Algorithm
 
 
-![ezgif-1-54c497cb7a46](https://user-images.githubusercontent.com/57897489/116426337-a72cf400-a860-11eb-8dbe-76067170a9eb.gif)
+![ezgif-1-64c3c2a743f0](https://user-images.githubusercontent.com/57897489/116426545-d04d8480-a860-11eb-8b9b-11dd5b835e51.gif)
 
 
 
